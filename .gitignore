@@ -1,0 +1,21 @@
+# Maven Build Artifacts
+target/
+
+# Compiled Java Files
+*.class
+
+# IDE Metadata - IntelliJ IDEA
+.idea/
+*.iml
+
+# IDE Metadata - VS Code
+.vscode/
+
+# IDE Metadata - Eclipse
+.settings/
+.project
+.classpath
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
